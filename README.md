@@ -62,10 +62,15 @@ Markdown é uma forma de escrever arquivos texto seguindo regras que serão segu
 #### Negrito
 **negrito**
 #### Bloco de Código
-
+```
+bloco de codigo
+```
 ### Listas
 
 #### Listas Numeradas
+1. item 1
+2. item 2
+3. item 3
 
 #### Listas com subitems
 
