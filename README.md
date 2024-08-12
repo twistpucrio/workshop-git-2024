@@ -64,6 +64,7 @@ Para formatar um texto em itálico utilize o * no inicio e fim do texto.
 #### Negrito
 Para formatar em negrito utilize ** no inicio e no final
   **Negrito**
+  
 
 #### Bloco de Código
 
