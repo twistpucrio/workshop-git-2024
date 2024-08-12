@@ -62,10 +62,20 @@ Markdown é uma forma de escrever arquivos texto seguindo regras que serão segu
 #### Negrito
 
 #### Bloco de Código
+Para criar um bloco de código de várias linhas específico, adicione três acentos graves (```) antes e depois do bloco de código.
+Exemplos:
+Oi ```sou diferente```de vocês. 
 
 ### Listas
 
 #### Listas Numeradas
+Para fazer listas númeradas é necessário usar os númerospara cada elemento da lista.
+
+Por Exemplo:
+1. Primeiro item
+2. Segundo item
+3. Terceiro item
+
 
 #### Listas com subitems
 
