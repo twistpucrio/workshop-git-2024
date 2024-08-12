@@ -69,7 +69,31 @@ Markdown é uma forma de escrever arquivos texto seguindo regras que serão segu
 
 #### Listas com subitems
 
+Para criar uma lista com subitens é necessário utilizar o caractere '*' ou '-':
+
+* Item 1
+  * subitem 1
+  * subitem 2
+* Item 2 
+  * subitem 1
+  * subitem 2 
+
+- Item 1
+  - subitem 1
+  - subitem 2
+- Item 2
+  - subitem 1
+  - subitem 2
+
+
 #### Listas de Tarefas
+
+Para criar uma lista de tarefas é necessário utilizar '-' e '[]', este ultimo podendo ser utilizado dessa forma anterior quando não preenchido ou '[x]' dessa forma quando preenchido :
+
+- [x] Faculdade
+- [] Estágio 
+- [] Academia 
+- [] Estudo
 
 ### Tabelas
 
