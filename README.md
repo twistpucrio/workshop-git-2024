@@ -58,9 +58,9 @@ Markdown é uma forma de escrever arquivos texto seguindo regras que serão segu
 ### Formatação
 
 #### Itálico
-
+*itálico*
 #### Negrito
-
+**negrito**
 #### Bloco de Código
 
 ### Listas
