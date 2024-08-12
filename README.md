@@ -74,16 +74,52 @@ Como colocar o texto de um README para negrito?
  Por exemplo: **negrito** ou **texto em negrito**.
 
 #### Bloco de Código
-
+```
+bloco de codigo
+```
 ### Listas
 
 #### Listas Numeradas
+1. item 1
+2. item 2
+3. item 3
 
 #### Listas com subitems
 
+Para criar uma lista com subitens é necessário utilizar o caractere '*' ou '-':
+
+* Item 1
+  * subitem 1
+  * subitem 2
+- Item 2
+  - subitem 1
+  - subitem 2
+
+
 #### Listas de Tarefas
 
+Para criar uma lista de tarefas é necessário utilizar '-' e '[]', este ultimo podendo ser utilizado dessa forma anterior quando não preenchido ou '[x]' dessa forma quando preenchido :
+
+- [x] Faculdade
+- [ ] Estágio 
+- [ ] Academia 
+- [ ] Estudo
+
 ### Tabelas
+
+Para fazer uam tabela é preciso inserir a barra vertical (|) separando as colunas
+Um exemplo de código é: 
+
+`|título 1 | título 2 | título 3| `<br/>
+`|--|--|--|` <br/>
+`| L1 - C1 | L1 - C2 | L1 - C3 |`<br/>
+`| L2 - C1 | L2 - C2 | L2 - C3 |`<br/>
+
+| título 1 | título 2 | título 3| 
+|:--------:|:--------:|:-------:|
+| L1 - C1  | L1 - C2  | L1 - C3 |
+| L2 - C1  | L2 - C2  | L2 - C3 |
+
 
 
 Anotações
