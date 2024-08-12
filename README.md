@@ -107,7 +107,7 @@ Para criar uma lista de tarefas é necessário utilizar '-' e '[]', este ultimo 
 
 ### Tabelas
 
-Para fazer uam tabela é preciso inserir a barra vertical (|) separando as colunas
+Para fazer uma tabela é preciso inserir a barra vertical (|) separando as colunas
 Um exemplo de código é: 
 
 `|título 1 | título 2 | título 3| `<br/>
