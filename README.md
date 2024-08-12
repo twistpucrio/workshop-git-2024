@@ -57,10 +57,22 @@ Markdown é uma forma de escrever arquivos texto seguindo regras que serão segu
 
 ### Formatação
 
+Tutorial de como formatar o texto de um README. Iremos abordar como colocar o texto em negrito e em itálico. 
+
 #### Itálico
-*itálico*
+
+Como colocar o texto de um README para itálico?
+ - deve-se colocar a sessão do texto que se quer colocar em itálico entre um asterisco (um asterisco de cada lado). 
+ 
+ Por exemplo: *itálico* ou *texto em itálico*.
+
 #### Negrito
-**negrito**
+
+Como colocar o texto de um README para negrito?
+ - deve-se colocar a sessão do texto que se quer colocar em negrito entre dois asteriscos (dois asteriscos de cada lado).
+ 
+ Por exemplo: **negrito** ou **texto em negrito**.
+
 #### Bloco de Código
 ```
 bloco de codigo
