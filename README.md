@@ -74,13 +74,6 @@ Para criar uma lista com subitens é necessário utilizar o caractere '*' ou '-'
 * Item 1
   * subitem 1
   * subitem 2
-* Item 2 
-  * subitem 1
-  * subitem 2 
-
-- Item 1
-  - subitem 1
-  - subitem 2
 - Item 2
   - subitem 1
   - subitem 2
@@ -91,9 +84,9 @@ Para criar uma lista com subitens é necessário utilizar o caractere '*' ou '-'
 Para criar uma lista de tarefas é necessário utilizar '-' e '[]', este ultimo podendo ser utilizado dessa forma anterior quando não preenchido ou '[x]' dessa forma quando preenchido :
 
 - [x] Faculdade
-- [] Estágio 
-- [] Academia 
-- [] Estudo
+- [ ] Estágio 
+- [ ] Academia 
+- [ ] Estudo
 
 ### Tabelas
 
