@@ -73,14 +73,14 @@ para formatar uma lista com subitens colocar um * na frente do item e dar um tab
 (segundo o tutorial do google de markdown pq eu n sei fazer isso n).
 Aqui está um exemplo: 
 
-*frutas:
-  *banana
-  *maça
-  *uva
-*Carnes:
-  *frango
-  *boi
-  *porco  
+* frutas:
+  * banana
+  * maça
+  * uva
+* Carnes:
+  * frango
+  * boi
+  * porco  
 
 
 #### Listas de Tarefas
