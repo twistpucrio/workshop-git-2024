@@ -58,8 +58,12 @@ Markdown é uma forma de escrever arquivos texto seguindo regras que serão segu
 ### Formatação
 
 #### Itálico
+Para formatar um texto em itálico utilize o * no inicio e fim do texto.
+  *texto em itálico*
 
 #### Negrito
+Para formatar em negrito utilize ** no inicio e no final
+  **Negrito**
 
 #### Bloco de Código
 
