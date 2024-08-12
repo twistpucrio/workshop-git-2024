@@ -76,10 +76,10 @@ Markdown é uma forma de escrever arquivos texto seguindo regras que serão segu
 Para fazer uam tabela é preciso inserir a barra vertical (|) separando as colunas
 Um exemplo de código é: 
 
-`|título 1 | título 2 | título 3| `
-`|--|--|--|`
-`| L1 - C1 | L1 - C2 | L1 - C3 |`
-`| L2 - C1 | L2 - C2 | L2 - C3 |`
+`|título 1 | título 2 | título 3| `<br/>
+`|--|--|--|` <br/>
+`| L1 - C1 | L1 - C2 | L1 - C3 |`<br/>
+`| L2 - C1 | L2 - C2 | L2 - C3 |`<br/>
 
 | título 1 | título 2 | título 3| 
 |:--------:|:--------:|:-------:|
