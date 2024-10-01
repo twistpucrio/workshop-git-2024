@@ -72,7 +72,26 @@ _italico_ ou *assim*
 
 #### Listas com subitems
 
+para formatar uma lista com subitens colocar um * na frente do item e dar um tab nos subitens para cada item
+(segundo o tutorial do google de markdown pq eu n sei fazer isso n).
+Aqui está um exemplo: 
+
+*frutas:
+  *banana
+  *maça
+  *uva
+*Carnes:
+  *frango
+  *boi
+  *porco  
+
+
 #### Listas de Tarefas
+ para fazer uma lista de tarefas colocar um - na frente e depois um [ ] e em seguida a tarefa, quando a tarefa estiver completa colocar um x entre os colchetes, assim: "[x]"
+Aqui vai um exemplo:
+- [ ] Tarefa incompleta
+- [x] Tarefa completa
+
 
 ### Tabelas
 
